@@ -1,0 +1,61 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.projdiab2014.Diab2014Activity_1" >
+
+   
+    
+      <item
+        android:id="@+id/action_ref"
+        android:title="@string/action_ref"
+        android:orderInCategory="1"
+        app:showAsAction="always"  
+        android:icon="@drawable/prato2"  
+        
+    />   
+      
+      <item
+        android:id="@+id/action_graf" 
+        android:title="@string/action_graf" 
+        android:orderInCategory="2"
+        app:showAsAction="always"
+        android:icon="@drawable/graf2" 
+    />
+      
+      <item
+        android:id="@+id/action_menuhist" 
+        android:orderInCategory="98"
+        android:title="@string/action_menuhist"
+        app:showAsAction="never"/>
+ 
+      
+       <item
+        android:id="@+id/action_opcoes"
+        android:orderInCategory="99"
+        android:title="@string/action_opcoes"
+        app:showAsAction="never"/>
+ 
+      
+     <item
+        android:id="@+id/action_infpe"
+        android:title="@string/action_infpe"
+         android:orderInCategory="96"
+        app:showAsAction="never"
+    />
+     
+      <item
+        android:id="@+id/action_equi"
+        android:title="@string/action_equi"
+         android:orderInCategory="97"
+        app:showAsAction="never"
+    />
+     
+     
+       <item
+        android:id="@+id/action_sair"
+        android:orderInCategory="100"
+        android:title="@string/action_sair"
+        app:showAsAction="never"/>
+       
+     
+</menu>

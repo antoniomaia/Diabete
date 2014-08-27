@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Diabete</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_sair">Sair</string>
+    <string name="action_infpe">Informação Pessoal</string>
+    <string name="infpe">Informação Pessoal</string>
+    <string name="infpe_nome">Nome</string>
+    <string name="infpe_contemerg">Contacto Emergência</string>
+    <string name="infpe_datanasc">Data Nascimento</string>
+    <string name="infpe_grupsang">Grupo Sanguíneo</string>
+    <string name="infpe_tipdiab">Tipo Diabetes</string>
+    <string name="action_ref">Refeição</string>
+    <string name="action_graf">Gráfico</string>
+    <string name="action_equi">Equipa de Apoio</string>
+    <string name="equi_titulo">Equipa de Apoio</string>
+    <string name="action_titulo">Refeição</string>
+    <string name="ref_titulo">O que acabou de comer?</string>
+    <string name="action_hist">Histórico</string>
+      <string name="action_hist_ref">Histórico da Refeição</string>
+    <string name="inserir">Insira o valor glicémico</string>
+     <string name="action_menuhist">Histórico</string>
+    <string name="M">M</string>    
+    <string name="F">F</string>     
+    
+     <string name="action_opcoes">Opcões</string>     
+    <string name="spinner_title">Adicionar</string>
+    
+    <string-array name="refeicao">
+        <item>Pequeno Almoço</item>
+        <item>Almoço</item>
+        <item>Jantar</item>
+        <item>Seia</item>
+        <item>Petisco</item>
+    </string-array>
+        <string name="Nome_txt">Nome</string>
+        <string name="Sexo_txt">Sexo</string>
+        <string name="Sangue_txt">Sangue</string>
+        
+        <string-array name="Sangue">
+        <item>-tipo de sangue-</item>
+        <item>AB-</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>A+</item>
+        <item>B-</item>
+        <item>B+</item>
+        <item>O-</item>
+        <item>O+</item>
+    </string-array>
+        <string name="TipoDiab_txt">TipoDiabetes:</string>
+        
+        <string-array name="TipoDiab">
+        <item>-tipo de diabetes-</item>
+        <item>Tipo 1</item>
+        <item>Tipo 2</item>
+        <item>Gestacional</item>
+        
+    </string-array>
+        <string name="DataNasc_txt">Data Nascimento</string>
+        <string name="Email_txt">Email</string>
+        <string name="Peso_txt">Peso</string>
+        <string name="Altura_txt">Altura</string>
+        <string name="ContEmer">Contacto Emergência</string>
+        <string name="IMC_txt">IMC</string>
+        <string name="escolher_txt">Escolher</string>
+        
+</resources>
